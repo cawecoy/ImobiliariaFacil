@@ -3,11 +3,11 @@ ImobiliariaFacil
 
 Autor: Cawe Coy e Leonzardo Tonzar
 
-Descrição: Aplicativo web para gerentes e corretores de imobiliarias. Permite que o usuário gerencie clientes, imóveis, corretores (apenas gerentes), pagamentos e realize venda/aluguel de imóveis.
+Descrição: Aplicativo web para gerentes e corretores de imobiliarias. Permite que o usuário gerencie clientes, imóveis, corretores (neste caso apenas para gerentes), pagamentos e realize venda/aluguel de imóveis.
 
 Trabalho de Banco de Dados feito em 2011 (3a. série da graduação em Ciência da Computação - Universidade Estadual de Londrina).
 
-Este é um aplicativo web desenvolvido em Java / JSP / HTML / CSS / JS quee roda sob um servidor Tomcat e utiliza o banco de dados PostgreSQL.
+Este é um aplicativo web desenvolvido em Java / JSP / HTML / CSS / JS que roda sob um servidor Tomcat e utiliza o banco de dados PostgreSQL. O desenvolvimento foi feito com o NetBeans IDE.
 
 O banco precisa ter as seguintes configurações:
 
